@@ -1,4 +1,4 @@
-module github.com/busgo/bus
+module github.com/gaogj/bus
 
 go 1.12
 
